@@ -1,0 +1,2 @@
+# proxy-manager-evolution-api
+GERENCIMENTO DE PROXY EVOLUTION API INSTANCES
